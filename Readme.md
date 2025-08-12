@@ -1,3 +1,4 @@
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c3b439f3-38de-4071-8743-dbdaa98aa5cc" />
 # On-Chain Portfolio Builder – Showcase Course Completions
 
 ## 📝 Project Title
@@ -17,3 +18,4 @@ The goal is to build an **on-chain reputation and credential system** for educat
 - Implement rewards for course completions (e.g., token/NFT airdrops).
 
 ## 📜 Contract Address
+<img width="1919" height="1079" alt="Screenshot 2025-08-12 145211" src="https://github.com/user-attachments/assets/139c5458-44cd-4b7f-afd1-26bd6b9dd2b8" />
